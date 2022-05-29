@@ -1,4 +1,5 @@
-App create with React using Typescript
+App created with React using Typescript
+
 
 Packages used:
 
